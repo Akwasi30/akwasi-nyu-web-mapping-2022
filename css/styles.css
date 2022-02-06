@@ -1,0 +1,40 @@
+
+
+.project-container {
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 3px 5px;
+  background: #CCCCFF;
+  font-family: sans-serif;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.Project-container:hover {
+  background:#00FF00
+}
+
+.Project-name {
+  font-size: 10px;
+}
+
+.half-width {
+  width: 47%;
+  display: inline-block;
+}
+
+.right-half img {
+  width: 107%;
+}
+
+body {
+  background: #fff;
+  padding: 20px;
+  font-family: sans-serif;
+  font-size:10px;
+}
+img {
+  height: 193px;
+  width: 93px;
+  display: inline-block;
+}
